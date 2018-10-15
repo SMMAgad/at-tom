@@ -1,0 +1,212 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body {
+  font-family: Roboto ;
+  padding: 0;
+  margin: auto;
+  overflow-x:hidden;
+  color: black;
+
+}
+
+
+
+#showcase {
+  background-image: url('/img.JPG');
+  background-position: center;
+  background-size: cover;
+  height: 600px;
+  margin: 0;
+
+}
+
+
+
+#showcase .logo {
+  margin: 0;
+  float: left;
+  padding-top: 48px;
+  padding-left: 88px;
+  color: white;
+  font-size: 50px;
+
+}
+
+.dif-color {
+  color: white;
+
+}
+
+#showcase header {
+  height: 100px;
+  width: 93%;
+}
+
+
+.nav ul {
+  float: right;
+  padding-top: 50px;
+
+
+}
+
+.nav li {
+  list-style: none;
+  display: inline;
+}
+
+.nav a {
+  text-decoration: none;
+  padding-left: 30px;
+  color:white;
+  font-weight: bold;
+
+}
+
+#showcase hr {
+  width: 88%;
+}
+
+
+.showcase {
+   padding-top: 5%;
+   text-align: center;
+   line-height: 3;
+
+}
+
+.showcase h1 {
+  font-size: 35px;
+  color: white;
+
+}
+
+.showcase a {
+  background: white;
+  padding: 25px;
+  text-decoration: none;
+  color:#212424;
+  font-size: 20px;
+  border-radius: 5px;
+}
+
+
+.showcase p {
+  margin-top: -30px;
+  margin-bottom: 20px;
+  color: white;
+}
+
+
+
+
+
+
+#features {
+  display: grid;
+  grid-template-columns: 2fr 2fr 2fr;
+  grid-gap: 40px;
+  margin: 20px;
+  padding:100px;
+  font-size: 15px;
+}
+
+#features h3 {
+  color:#526063;
+}
+#features p {
+  color:#727272;
+}
+#features div {
+  text-align: center;
+}
+
+
+.fas {
+  color: #526063;
+}
+
+.far {
+  color: #526063;
+}
+
+
+#grid {
+  display: grid;
+  grid-template-columns: 2fr 2fr 2fr 2fr;
+  grid-gap: 15px;
+}
+
+#grid img {
+  width: 350px;
+  height: 250px;
+}
+
+
+#employees  {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+text-align: center;
+padding-right: 60px;
+padding-left: 60px;
+
+}
+
+.employee img  {
+  width: 280px;
+  height: 300px;
+  margin-top: 100px;
+
+}
+
+.employee p {
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  color:#526063;
+}
+
+.employee a {
+  color: #ddd;
+  border: 0.5px solid #ddd;
+  padding: 10px 15px;
+  margin: 2px;
+  border-radius: 5px;
+}
+
+.employee h5 {
+  color:  #87222d;
+}
+
+.employee h3 {
+  color: #526063;
+}
+
+.employee a:hover {
+  background-color:#87222d;
+  color: white;
+}
+
+
+
+#testimonails {
+  width: 100%;
+  height: 400px;
+  background-color: #87222d;
+  margin-top: 40px;
+
+}
+
+#testimonails .img {
+  width: 500px;
+  float: left;
+}
+}
+
+#testimonails .text {
+float: right;
+width: 500px;
+
+
+
+}

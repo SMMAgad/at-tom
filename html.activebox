@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <script defer src="https://use.fontawesome.com/releases/v5.4.1/js/all.js" integrity="sha384-L469/ELG4Bg9sDQbl0hvjMq8pOcqFgkSpwhwnslzvVVGpDjYJ6wJJyYjvG3u8XW7" crossorigin="anonymous"></script>
+
+
+  <script defer src="https://use.fontawesome.com/releases/v5.4.1/js/all.js" integrity="sha384-L469/ELG4Bg9sDQbl0hvjMq8pOcqFgkSpwhwnslzvVVGpDjYJ6wJJyYjvG3u8XW7" crossorigin="anonymous"></script>
+  <link  rel="stylesheet" href="/style.css/style.css">
+
+  <title>ActiveBox</title>
+</head>
+<body>
+
+  <section id="showcase">
+    <div>
+    <header>
+      <h1 class="logo"> <span class="dif-color">ACTIVE</span>BOX </h1>
+
+    <nav class="nav">
+      <ul>
+        <li><a href="#"> FEATURES</a> </li>
+        <li><a href="#"> WORKS </a></li>
+        <li><a href="#"> OUR TEAM</a> </li>
+        <li><a href="#"> TESTIMONAILS</a> </li>
+        <li> <a href="#">DOWNLOAD</a> </li>
+      </ul>
+    </nav>
+    </header>
+
+<hr>
+<div id="overlay"> </div>
+<div id="min-showcase">
+  <div class="showcase">
+    <h1>  YOUR FAVORITE ONE PAGE MULTI PURPOSE TEMPLATE </h1>
+
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna vel scelerisque nisl consectetur et</p>
+
+
+    <a href="#"> FIND OUT MORE </a>
+</div>
+</div>
+<div>
+</section>
+
+
+<!---FEATURES--->
+<section id="features">
+  <div>
+    <i class="fas fa-tablet-alt fa-4x" color=" #87222d"></i>
+    <h3>EASILY CUSTOMISED</h3>
+    <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
+  </div>
+  <div>
+    <i class="far fa-calendar-times fa-4x" color=" #87222d"></i>
+    <h3>RESPONSIVE READY</h3>
+    <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
+  </div>
+  <div>
+    <i class="far fa-file-archive fa-4x" color=" #87222d"></i>
+    <h3>MODERN DESIGN</h3>
+    <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
+  </div>
+  <div>
+    <i class="far fa-edit fa-4x" color=" #87222d"></i>
+    <h3>CLEAN CODE</h3>
+    <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
+  </div>
+  <div>
+    <i class="fas fa-laptop fa-4x" color=" #87222d"></i>
+    <h3>READY TO SHIP</h3>
+    <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
+  </div>
+  <div>
+    <i class="fas fa-cloud-download-alt fa-4x" color=" #87222d"></i>
+    <h3>DOWNLOAD FOR FREE</h3>
+    <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
+  </div>
+
+
+</section>
+
+<!---Grid --->
+<section id="grid">
+    <img src="https://images.pexels.com/photos/34199/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940">
+    <img src="https://images.pexels.com/photos/57690/pexels-photo-57690.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940">
+    <img src="https://images.pexels.com/photos/1036641/pexels-photo-1036641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940">
+    <img src="https://images.pexels.com/photos/392018/pexels-photo-392018.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940">
+    <img src="https://images.pexels.com/photos/908284/pexels-photo-908284.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940">
+    <img src="https://images.pexels.com/photos/908292/pexels-photo-908292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940">
+    <img src="https://images.pexels.com/photos/7353/startup-photos.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940">
+    <img src="https://images.pexels.com/photos/56759/pexels-photo-56759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940">
+
+</section>
+
+
+<!---employee --->
+<section id="employees">
+<div class="employee">
+  <img src="https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&h=650&w=940">
+  <h3> saed Little </h3>
+  <h5> DATA SCIENTIST </h5>
+  <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo.</p>
+  <ul>
+     <a href="#"><i class="fab fa-facebook-f"></i></a>
+     <a href="#"><i class="fab fa-twitter"></i></a>
+    <a href="#"><i class="fab fa-google-plus-square"></i></a>
+    <a href="#"><i class="fab fa-instagram"></i></a>
+   </ul>
+</div>
+
+
+    <div class="employee">
+      <img src="https://images.pexels.com/photos/769745/pexels-photo-769745.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940">
+      <h3> Mark jack </h3>
+      <h5> UX DESIGNER </h5>
+      <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo.</p>
+      <ul>
+         <a href="#"><i class="fab fa-facebook-f"></i></a>
+         <a href="#"><i class="fab fa-twitter"></i></a>
+        <a href="#"><i class="fab fa-google-plus-square"></i></a>
+        <a href="#"><i class="fab fa-instagram"></i></a>
+       </ul>
+    </div>
+
+    <div class="employee">
+      <img src="https://images.pexels.com/photos/567459/pexels-photo-567459.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940">
+      <h3> Bucky john </h3>
+        <h5> WEB DEVELOPER </h5>
+        <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo.</p>
+        <ul>
+           <a href="#"><i class="fab fa-facebook-f"></i></a>
+           <a href="#"><i class="fab fa-twitter"></i></a>
+          <a href="#"><i class="fab fa-google-plus-square"></i></a>
+          <a href="#"><i class="fab fa-instagram"></i></a>
+         </ul>
+      </div>
+
+    <div class="employee">
+        <img src="https://images.pexels.com/photos/462680/pexels-photo-462680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940">
+            <h3> Max Jabriel </h3>
+            <h5> UI DESIGNER </h5>
+            <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo.</p>
+            <ul>
+               <a href="#"><i class="fab fa-facebook-f"></i></a>
+               <a href="#"><i class="fab fa-twitter"></i></a>
+              <a href="#"><i class="fab fa-google-plus-square"></i></a>
+              <a href="#"><i class="fab fa-instagram"></i></a>
+             </ul>
+          </div>
+</section>
+
+<!---TESTIMONAILS --->
+
+<section id="testimonails">
+<div class="img">
+<img src="https://images.pexels.com/photos/380769/pexels-photo-380769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" width="700px" height="400px" alt="">
+</div>
+<div class="text">
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat recusandae quae atque voluptas incidunt, commodi </p>
+
+<p>SUSAN SIMS, INTERACTION DESIGNER AT XYZ</p>
+</div>
+
+
+</section>
+
+<!---Quote --->
+<section id="quote">
+  <h2>Are You Ready to Start? Download Now For Free!</h2>
+  <p>FUSCE DAPIBUS, TELLUS AC CURSUS COMMODO</p>
+  <a> DOWNLOAD FOR FREE </a>
+
+</section>
+
+
+<!---INFO --->
+
+<section id="info">
+   <div class="location">
+     <p>3481 Melrose Place
+Beverly Hills, CA 90210</p>
+</div>
+
+
+<div class="share">
+  <h3> SHARE WITH LOVE </h3>
+  <br>
+  <ul>
+     <a href="#"><i class="fab fa-facebook-f"></i></a>
+     <a href="#"><i class="fab fa-twitter"></i></a>
+    <a href="#"><i class="fab fa-google-plus-square"></i></a>
+    <a href="#"><i class="fab fa-instagram"></i></a>
+   </ul>
+
+</div>
+
+<div class="about">
+  <h3> ABOUT US </h3>
+  <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec ullamcorper nulla non metus auctor fringilla.</p>
+</div>
+
+
+</section>
+
+<!---footer-->
+
+<footer>
+
+<p>Copyright &copy; 2015 ActiveBox. All Rights Reserved</p>
+</footer>
+</body>
+</html>
